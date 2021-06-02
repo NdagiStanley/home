@@ -18,7 +18,8 @@ module.exports = {
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['link', { rel: 'icon', type: "image/png", href: 'https://stanmd.tk/he_.png' }]
   ],
 
   /**
@@ -30,6 +31,7 @@ module.exports = {
     repo: '',
     editLinks: false,
     docsDir: '',
+    search: false,
     editLinkText: '',
     lastUpdated: false,
     nav: [
