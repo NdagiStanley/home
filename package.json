@@ -1,0 +1,19 @@
+{
+  "name": "stanmd.tk",
+  "version": "0.0.1",
+  "description": "invoking the builder within &amp; serve",
+  "main": "index.js",
+  "authors": {
+    "name": "Ndagi Stanley",
+    "email": "ndagis@gmail.com"
+  },
+  "repository": "https://github.com/NdagiStanley/home",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
