@@ -22,12 +22,11 @@ My mantra: <i>invoke the builder within and serve</i>
 <a href="/about#">What does this mean?</a>
 </div>
 
-::: details In a nutshell
+::: details In brief
 
-<CodeGroup>
-  <CodeGroupItem title="In brief" active>
+<CodeGroupItem active>
 
-```md
+```md:no-line-numbers
 # Profession
 Software Engineer
 Technical Copywriter
@@ -36,8 +35,7 @@ Technical Copywriter
 Tinkerer | Writer | Digerati*
 ```
 
-  </CodeGroupItem>
-</CodeGroup>
+</CodeGroupItem>
 
 <div align="center">
   *<i>digerati</i> - (Digital + literati) I consider myself literate in the digital space.

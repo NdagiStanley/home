@@ -23,5 +23,8 @@ indent_size = 2
 
 # Matches multiple files with brace expansion notation
 # 4 space indentation for specific extensions
-[*.{py,js,css,sh}]
+[*.{py,css,sh}]
 indent_size = 4
+
+[*.{js}]
+indent_size = 2

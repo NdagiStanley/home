@@ -1,5 +1,12 @@
 const { description } = require('../../package')
 const isProd = process.env.NODE_ENV === 'production'
+const { path, fs } = require('@vuepress/utils')
+
+var posts = []
+const postsDir = path.resolve(__dirname, '../posts')
+const postsFiles = fs.readdirSync(postsDir);
+for (const file of postsFiles)
+  posts.unshift(file)
 
 module.exports = {
   lang: 'en-US',
@@ -21,13 +28,12 @@ module.exports = {
     logo: 'he_.png',
     navbar: [
       {
-        text: 'About',
-        link: '/about/'
+        text: 'Blog',
+        link: '/posts/'
       },
       {
-        text: 'Blog',
-        link: 'https://blog.stanmd.tk',
-        target: '_blank'
+        text: 'About',
+        link: '/about/'
       },
       {
         text: 'Code',
@@ -39,6 +45,23 @@ module.exports = {
         link: 'https://techkln.org',
         target: '_blank'
       }
-    ]
-  }
+    ],
+    sidebar: {
+      '/posts/': [
+        {
+          isGroup: true,
+          text: 'Posts',
+          children: posts
+        }
+      ]
+    },
+  },
+  plugins: [
+    [
+      '@vuepress/plugin-register-components',
+      {
+        componentsDir: path.resolve(__dirname, './components'),
+      },
+    ],
+  ],
 }
