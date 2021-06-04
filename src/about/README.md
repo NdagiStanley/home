@@ -90,7 +90,7 @@ Find more at [code.stanmd.tk][code]
 
 I share these, chiefly, to give insight
 
-### "Fandom" (people, initiatives I fancy)
+### 'Fandom' - people and initiatives I fancy
 
 I'm not the ***stan**** kind of a fan (bad joke :sweat_smile:) but here's my non-exhaustive list:
 
@@ -132,6 +132,9 @@ It's said time and tide wait for no man. As far as planning for one's time goes,
 
 An alternative, I came across in 2018 is the [OneWord365 philosophy](https://oneword365.com/). It's not a new concept in any sense but I recommend it whenever I can. Basically, you prayerfully and meditatively settle on one word to guide you every year - talk of the significance of words!
 
+<!-- TODO -->
+<!-- Figure where to put this -->
+<!-- We might have to use a Blog theme/ create one -->
 Here are [my musings on the same, ever since](https://stanmd.tk/category/vision/).
 
 ## Where else can I be found?
@@ -198,6 +201,7 @@ WWW\*: World Wide Web
 [stan]: https://en.wikipedia.org/wiki/Fan_(person)#"Stan"_fans
 
 <!-- TODO -->
-<!-- Update blog posts to include all content and canonical links -->
+<!-- Add blog posts -->
+<!-- Update blog posts to include all content (consolidated) and canonical links -->
 <!-- Bring all content here to leverage - Edit on GitHub -->
-<!-- Decide whether the projects' links are headed for code..., to Github or to hosting -->
+<!-- Decide whether the projects' links are headed for code subdomain, to GitHub or to hosting -->

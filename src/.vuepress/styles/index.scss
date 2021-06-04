@@ -11,3 +11,15 @@
     width: 20%;
   }
 }
+
+.center {
+  text-align: -webkit-center
+}
+
+details {
+  width: max-content;
+}
+
+details[open] {
+  width: auto;
+}
