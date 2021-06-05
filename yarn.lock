@@ -402,6 +402,18 @@
     gray-matter "^4.0.3"
     toml "^3.0.0"
 
+"@vuepress/core@2.0.0-beta.17":
+  version "2.0.0-beta.17"
+  resolved "https://registry.yarnpkg.com/@vuepress/core/-/core-2.0.0-beta.17.tgz#61685d172d3132f40b3a724190afc76cc989bb69"
+  integrity sha512-bQO5nz/LOhptt9Mp+VWb37m48Y6Eiq6bWiU5t7O5N2hDQa91JNGStfRjKq1LiyW5RyVMCzr8VUV3ca6zGAvlAA==
+  dependencies:
+    "@vuepress/client" "2.0.0-beta.15"
+    "@vuepress/markdown" "2.0.0-beta.15"
+    "@vuepress/shared" "2.0.0-beta.7"
+    "@vuepress/utils" "2.0.0-beta.15"
+    gray-matter "^4.0.3"
+    toml "^3.0.0"
+
 "@vuepress/markdown@2.0.0-beta.15":
   version "2.0.0-beta.15"
   resolved "https://registry.yarnpkg.com/@vuepress/markdown/-/markdown-2.0.0-beta.15.tgz#5080f044463ed08f4210cef508f66453cb6c92e4"
@@ -497,6 +509,15 @@
   dependencies:
     "@vuepress/core" "2.0.0-beta.15"
     prismjs "^1.23.0"
+
+"@vuepress/plugin-register-components@^2.0.0-beta.17":
+  version "2.0.0-beta.17"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-register-components/-/plugin-register-components-2.0.0-beta.17.tgz#4bc6992a1fbed46fadac20e5b1c124487d0d2d3e"
+  integrity sha512-DXl+zIAHEe0aiQEJVBIvxNPj67galxT08gGc/G+mu7j5z6rqzKkrOOG2lCDWjEEuzY38l9iFr6O1/E5FvWepcQ==
+  dependencies:
+    "@vuepress/core" "2.0.0-beta.17"
+    "@vuepress/utils" "2.0.0-beta.15"
+    chokidar "^3.5.1"
 
 "@vuepress/plugin-theme-data@2.0.0-beta.15":
   version "2.0.0-beta.15"

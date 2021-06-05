@@ -13,7 +13,7 @@
 }
 
 .center {
-  text-align: -webkit-center
+  text-align: -webkit-center;
 }
 
 details {
@@ -22,4 +22,12 @@ details {
 
 details[open] {
   width: auto;
+}
+
+.home-div {
+  padding: 1rem;
+}
+
+.spaced {
+  padding-bottom: 1rem;
 }

@@ -32,19 +32,20 @@ Stan
 
 #### What does this mean?
 
-At the core, I am a tinkerer\*.
-
-Secondly, I like to think that I care about people.
+Besides being a **creative head** (building stuff and tinkering) I like to believe that I go **beyond self** and work on impacting others.
 
 This mantra reminds me of this identity; calling me to action!
 
 #### Building & Serving
 
 - Software engineering - [My Devstory][devstory].
-- DIY - Do It Yourself projects
+- Teaching (wholesomely breaking barriers, real or imagined!)
 - Taking up **Leadership** opportunities
+- DIY - Do It Yourself projects
 - **Mentoring**
 - ... the list continues (It's a lifelong journey)
+
+[TechKln community][tk] is a brainchild of mine.
 
 ## Publications
 
@@ -84,7 +85,7 @@ Find more at [code.stanmd.tk][code]
 - [My author page at CircleCI's blog][circleci-blog]
 - [Article at Andela's blog][andela-blog]
 - [Technical tutorial at ScotchIO][scotchio]
-- My other pen strokes can be found on [Hashnode][hashnode] and [Medium][medium]
+- My other pen strokes can be found on [my blog][my-blog], [TechKln's blog][tk-blog], [DeveloperISH blog][devish-blog] and [Medium][medium]
 
 ## Et al - miscellaneous
 
@@ -178,6 +179,9 @@ WWW\*: World Wide Web
 [scotchio]: https://scotch.io/bar-talk/build-an-app-with-vuejs-and-django-part-one
 [hashnode]: https://hashnode.com/@stanmd
 [medium]: https://medium.com/@NdagiStanley
+[my-blog]: https://blog.stanmd.tk/
+[tk-blog]: https://blog.techkln.org/
+[devish-blog]: https://blog.developerish.org/
 
 [kb-youversion]: https://bit.ly/KB-youversion
 [kb-bibleproject]: https://bit.ly/KB-bibleproject
@@ -188,7 +192,7 @@ WWW\*: World Wide Web
 [gh]: https://github.com/NdagiStanley
 [BB]: https://bitbucket.com/stanmd
 [Gl]: https://gitlab.com/NdagiStanley
-[tk]: https://blog.techkenyans.org
+[tk]: https://techkln.org
 [FB]: https://facebook.com/NdagiStanley
 [Ln]: https://www.linkedin.com/in/ndagistanley
 

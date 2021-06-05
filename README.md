@@ -22,3 +22,4 @@
 - `<center></center>` makes content align center
 - [Plugin API](https://vuepress.github.io/reference/plugin-api.html)
   - extendsPageOptions
+- `footerHtml`

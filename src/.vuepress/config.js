@@ -1,5 +1,6 @@
 const { description } = require('../../package')
 const isProd = process.env.NODE_ENV === 'production'
+const { path } = require('@vuepress/utils')
 
 module.exports = {
   lang: 'en-US',
@@ -45,4 +46,12 @@ module.exports = {
       git: false,
     },
   },
+  plugins: [
+    [
+      '@vuepress/register-components',
+      {
+        componentsDir: path.resolve(__dirname, './components'),
+      },
+    ],
+  ]
 }
