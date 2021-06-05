@@ -23,7 +23,7 @@ module.exports = {
     navbar: [
       {
         text: 'About',
-        link: '/about/'
+        link: '/me/'
       },
       {
         text: 'Blog',

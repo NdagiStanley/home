@@ -8,7 +8,7 @@ tagline: Software Engineer | Digerati
 title: Stan_MD
 actions:
   - text: About
-    link: /about/
+    link: /me/
     type: primary
   - text: Blog
     link: https://blog.stanmd.tk
