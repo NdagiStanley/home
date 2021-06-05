@@ -53,7 +53,7 @@ This mantra reminds me of this identity; calling me to action!
 
 - Speaking on Open Source while at DockerCon 2018 - by [TFIR][TFIR].
 
-  [Video link](https://youtu.be/OSYMXCVCdXk)
+  [Video link][TFIR-video]
   <iframe
       src="https://www.youtube.com/embed/OSYMXCVCdXk"
       frameborder="0"
@@ -64,7 +64,7 @@ This mantra reminds me of this identity; calling me to action!
 
 - Narrating a day in my life as a software engineer - by [Andela][Andela] during my days working there.
 
-  [Video link](https://youtu.be/ulQt9BBTfFU)
+  [Video link][Andela-video]
   <iframe
       src="https://www.youtube.com/embed/ulQt9BBTfFU"
       frameborder="0"
@@ -131,12 +131,12 @@ These cut across learning, entertainment, insight and DIY
 
 It's said time and tide wait for no man. As far as planning for one's time goes, I think that new year resolutions is single most common time people zero-in on this. Yet, some forget weeks later, clouded by the day-to-day of life.
 
-An alternative, I came across in 2018 is the [OneWord365 philosophy](https://oneword365.com/). It's not a new concept in any sense but I recommend it whenever I can. Basically, you prayerfully and meditatively settle on one word to guide you every year - talk of the significance of words!
+An alternative, I came across in 2018 is the [OneWord365 philosophy][OneWord356]. It's not a new concept in any sense but I recommend it whenever I can. Basically, you prayerfully and meditatively settle on one word to guide you every year - talk of the significance of words!
 
 <!-- TODO -->
 <!-- Figure where to put this -->
 <!-- We might have to use a Blog theme/ create one -->
-Here are [my musings on the same, ever since](https://stanmd.tk/category/vision/).
+Here are [my musings on the same, ever since][vision].
 
 ## Where else can I be found?
 
@@ -146,14 +146,14 @@ My home in the WWW\* is [here][home]. You can find me around the web at:
 - Twitter: [NdagiStanley][twitter]
 - LinkedIn: [NdagiStanley][Ln]
 - Facebook: [NdagiStanley][FB]
-- Codementor: [NdagiStanley](https://www.codementor.io/@ndagistanley)
+- Codementor: [NdagiStanley][codementor]
 - Bitbucket: [NdagiStanley][BB]
 - GitLab: [NdagiStanley][Gl]
-- DevPost: [NdagiStanley](https://devpost.com/ndagistanley)
-- Youtube: [NdagiStanley](https://youtube.com/c/ndagistanley)
-- :headphones: Jam to [my playlists on Spotify](https://open.spotify.com/user/stan_md)
-- :books: [Some of my reads on Goodreads](https://www.goodreads.com/ndagistanley)
-- :chess_pawn: Let's play a game of chess on [lichess](https://lichess.com/@/stanmd)
+- DevPost: [NdagiStanley][devpost]
+- Youtube: [NdagiStanley][youtube-channel]
+- :headphones: Jam to [my playlists on Spotify][spotify]
+- :books: [Some of my reads on Goodreads][goodreads]
+- :chess_pawn: Let's play a game of chess on [lichess][lichess]
 
 Use any of the last four links [here][chat] if you'd like to reach out including [meeting up][meet] :smile:
 
@@ -167,38 +167,50 @@ WWW\*: World Wide Web
 
 [kingdombiz]: https://stanmd.tk/kingdombiz
 [devstory]: https://stanmd.tk/devstory
+[tk]: https://techkln.org
 [TFIR]: https://www.tfir.io
 [Andela]: https://andela.com
 [vuedj]: https://github.com/NdagiStanley/vue-django
 [lifebuoy]: https://marketplace.visualstudio.com/items?itemName=NdagiStanley.lifebuoy
 [code]: https://code.stanmd.tk
 
+<!-- Videos -->
+[Andela-video]: https://youtu.be/ulQt9BBTfFU
+[TFIR-video]: https://youtu.be/OSYMXCVCdXk
+
 <!-- Publications -->
 [circleci-blog]: https://circleci.com/blog/author/stanley-ndagi
 [andela-blog]: https://andela.com/insights/building-future-data-enigma
 [scotchio]: https://scotch.io/bar-talk/build-an-app-with-vuejs-and-django-part-one
-[hashnode]: https://hashnode.com/@stanmd
-[medium]: https://medium.com/@NdagiStanley
 [my-blog]: https://blog.stanmd.tk/
 [tk-blog]: https://blog.techkln.org/
 [devish-blog]: https://blog.developerish.org/
+[medium]: https://medium.com/@NdagiStanley
 
+<!-- Others -->
 [kb-youversion]: https://bit.ly/KB-youversion
 [kb-bibleproject]: https://bit.ly/KB-bibleproject
-[home]: https://stanmd.tk/
+[OneWord356]: https://oneword365.com
+[vision]: https://old.stanmd.tk/category/vision/
 
 <!-- Socials -->
+[home]: https://stanmd.tk/
 [twitter]: https://twitter.com/NdagiStanley
 [gh]: https://github.com/NdagiStanley
+[Ln]: https://www.linkedin.com/in/ndagistanley
+[FB]: https://facebook.com/NdagiStanley
+[codementor]: https://www.codementor.io/@ndagistanley
 [BB]: https://bitbucket.com/stanmd
 [Gl]: https://gitlab.com/NdagiStanley
-[tk]: https://techkln.org
-[FB]: https://facebook.com/NdagiStanley
-[Ln]: https://www.linkedin.com/in/ndagistanley
+[devpost]: https://devpost.com/ndagistanley
+[youtube-channel]: https://youtube.com/c/ndagistanley
+[spotify]: https://open.spotify.com/user/stan_md
+[goodreads]: https://www.goodreads.com/ndagistanley
+[lichess]: https://lichess.com/@/stanmd
 
 <!-- Contact -->
-[meet]: https://stanmd.tk/meet
 [chat]: https://stanmd.tk/chat
+[meet]: https://stanmd.tk/meet
 
 <!-- Reference -->
 [tinkerer]: https://www.vocabulary.com/dictionary/tinkerer
