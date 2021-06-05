@@ -1,7 +1,7 @@
 <template>
   <div class="home-div">
     <div>
-      <b>You:</b>Why use <highlight>stanmd.tk</highlight>?
+      <b>You: </b>Why use <b><i><u>stanmd.tk</u></i></b>?
     </div>
     <div>
       <b>Me:</b> I'm glad you asked.
@@ -11,7 +11,7 @@
       target="_blank"
     >
       Find out why I'm using the
-      <highlight>.tk domain</highlight>
+      <b><i><u>.tk domain</u></i></b>
     </a>
   </div>
 </template>
