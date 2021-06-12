@@ -1,5 +1,5 @@
 <template>
-  <div class="footer">Stan_MD™ ה | AD {{ year }}</div>
+  <div class="footer">Stan_MD | AD {{ year }}</div>
 </template>
 <script>
 const d = new Date();
