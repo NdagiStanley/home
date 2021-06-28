@@ -31,11 +31,6 @@ module.exports = {
         target: '_blank'
       },
       {
-        text: 'Code',
-        link: 'https://code.stanmd.tk',
-        target: '_blank'
-      },
-      {
         text: 'TechK/n',
         link: 'https://techkln.org',
         target: '_blank'
