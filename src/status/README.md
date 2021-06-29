@@ -23,9 +23,7 @@ externalIcon: false
 ## Vue-Django
 
 [![Build Status](https://semaphoreci.com/api/v1/stanmd/vue-django/branches/master/badge.svg)](https://semaphoreci.com/stanmd/vue-django)
-
 [![GitHub](https://img.shields.io/github/stars/NdagiStanley/vue-django.svg?style=flat-round)](https://github.com/NdagiStanley/vue-django/stargazers)
-
 [![GitHub](https://img.shields.io/github/forks/NdagiStanley/vue-django.svg?style=flat-round)](https://github.com/NdagiStanley/vue-django/network/members)
 
 ## Lifebuoy
@@ -35,5 +33,4 @@ externalIcon: false
 ## Django_Girls_Complete
 
 [![CircleCI](https://img.shields.io/circleci/project/NdagiStanley/django_girls_complete.svg?style=flat-round)](https://circleci.com/gh/NdagiStanley/django_girls_complete)
-
 [![codecov](https://codecov.io/gh/NdagiStanley/django_girls_complete/branch/circleci/graph/badge.svg)](https://codecov.io/gh/NdagiStanley/django_girls_complete/branch/circleci)
