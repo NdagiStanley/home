@@ -20,6 +20,7 @@ Navigation is on the right sidebar.
 Stan
 
 - 🇰🇪 is Kenyan (by birth) & identify as a global citizen!
+- 🖥️ I mostly work from home
 - :writing_hand: enjoys writing
 - :hiking_boot: likes the outdoors (hiking, camping)
 - :pray: is a believer of Jesus Christ ([More][kingdombiz])

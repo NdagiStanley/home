@@ -3,6 +3,29 @@
 - Built using VuePress
 - Hosted on Netlify
 
+## Run
+
+- Install dependencies:
+
+  ```bash
+  yarn
+  ```
+
+- Run locally:
+
+  ```bash
+  yarn dev
+  ```
+
+- Build:
+
+  ```bash
+  yarn build
+  hs src/.vuepress/dist
+  ```
+
+*hs - `http-server` ([npm package](https://www.npmjs.com/package/http-server))
+
 ## Editing guide
 
 - [Vuepress' frontmatter](https://vuepress.github.io/reference/frontmatter.html)

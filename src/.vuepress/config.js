@@ -31,6 +31,11 @@ module.exports = {
         target: '_blank'
       },
       {
+        text: 'Code',
+        link: 'https://github.com/NdagiStanley',
+        target: '_blank'
+      },
+      {
         text: 'TechK/n',
         link: 'https://techkln.org',
         target: '_blank'
