@@ -53,5 +53,16 @@ module.exports = {
         componentsDir: path.resolve(__dirname, './components'),
       },
     ],
-  ]
+  ],
+  extendsPageOptions: (filePath) => {
+    console.log(filePath);
+    if (filePath.startsWith('posts/') && filePath !== 'posts/README.md') {
+      return {
+        frontmatter: {
+          permalinkPattern: 'posts/:year/:month/:day/:slug',
+        },
+      }
+    }
+    return {}
+  },
 }
