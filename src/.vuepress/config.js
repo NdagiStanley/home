@@ -4,7 +4,7 @@ const { path } = require('@vuepress/utils')
 
 module.exports = {
   lang: 'en-US',
-  title: 'Ndagi Stanley',
+  title: 'Ndagi, Stanley M.',
   description: description,
 
   head: [
