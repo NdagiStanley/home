@@ -4,7 +4,7 @@ const { path } = require('@vuepress/utils')
 
 module.exports = {
   lang: 'en-US',
-  title: 'Ndagi Stanley',
+  title: 'Ndagi, Stanley M.',
   description: description,
 
   head: [
@@ -36,6 +36,21 @@ module.exports = {
         target: '_blank'
       },
       {
+        text: 'Et al (Others)',
+        children: [
+          {
+            text: 'Career',
+            link: 'https://www.linkedin.com/in/ndagistanley',
+            target: '_blank'
+          },
+          {
+            text: 'Twitter',
+            link: 'https://twitter.com/NdagiStanley',
+            target: '_blank'
+          },
+        ]
+      },
+      {
         text: 'TechK/n',
         link: 'https://techkln.org',
         target: '_blank'
@@ -53,5 +68,13 @@ module.exports = {
         componentsDir: path.resolve(__dirname, './components'),
       },
     ],
+    [
+      '@vuepress/plugin-google-analytics',
+      {
+        id: 'G-V99YX9YJ1V',
+      },
+    ],
+    ['@vuepress/plugin-pwa'],
+    ['@vuepress/plugin-pwa-popup']
   ]
 }

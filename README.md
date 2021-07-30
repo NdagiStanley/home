@@ -1,4 +1,4 @@
-# Personal web profile - Ndagi Stanley
+# Personal web profile - Ndagi, Stanley M
 
 - Built using VuePress
 - Hosted on Netlify
