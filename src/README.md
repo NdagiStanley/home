@@ -11,7 +11,7 @@ actions:
     link: /me/
     type: primary
   - text: Blog
-    link: https://blog.stanmd.tk
+    link: https://blog.md.engineer
     type: secondary
 ---
 
@@ -43,7 +43,6 @@ Tinkerer | Writer | Digerati*
 </div>
 
 <div class="center">
-  <WhyTK/>
   <OldSite/>
 </div>
 

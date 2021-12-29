@@ -19,8 +19,9 @@ Navigation is on the right sidebar.
 
 Stan
 
-- 🇰🇪 is Kenyan (by birth) & identify as a global citizen!
-- 🖥️ I mostly work from home
+- :flag-ke: is Kenyan (by birth)
+- :earth_africa: identifies as a global citizen
+- :computer: mostly works from home
 - :writing_hand: enjoys writing
 - :hiking_boot: likes the outdoors (hiking, camping)
 - :pray: is a believer of Jesus Christ ([More][kingdombiz])
@@ -79,7 +80,7 @@ This mantra reminds me of this identity; calling me to action!
 - [VueDjango][vuedj] - A VueJS-Django-Webpack boilerplate
 - [Lifebuoy][lifebuoy] - A Visual Studio Code extension
 
-Find more at [code.stanmd.tk][code]
+Find more at [code.md.engineer][code]
 
 ### Written pieces
 
@@ -166,14 +167,14 @@ stan\*: (portmanteau of **St**alker & f**an**) a particularly, perhaps excessive
 
 WWW\*: World Wide Web
 
-[kingdombiz]: https://stanmd.tk/kingdombiz
-[devstory]: https://stanmd.tk/devstory
+[kingdombiz]: https://md.engineer/kingdombiz
+[devstory]: https://md.engineer/devstory
 [tk]: https://techkln.org
 [TFIR]: https://www.tfir.io
 [Andela]: https://andela.com
 [vuedj]: https://github.com/NdagiStanley/vue-django
 [lifebuoy]: https://marketplace.visualstudio.com/items?itemName=NdagiStanley.lifebuoy
-[code]: https://code.stanmd.tk
+[code]: https://code.md.engineer
 
 <!-- Videos -->
 [Andela-video]: https://youtu.be/ulQt9BBTfFU
@@ -183,7 +184,7 @@ WWW\*: World Wide Web
 [circleci-blog]: https://circleci.com/blog/author/stanley-ndagi
 [andela-blog]: https://andela.com/insights/building-future-data-enigma
 [scotchio]: https://scotch.io/bar-talk/build-an-app-with-vuejs-and-django-part-one
-[my-blog]: https://blog.stanmd.tk/
+[my-blog]: https://blog.md.engineer/
 [tk-blog]: https://blog.techkln.org/
 [devish-blog]: https://blog.developerish.org/
 [medium]: https://medium.com/@NdagiStanley
@@ -192,10 +193,10 @@ WWW\*: World Wide Web
 [kb-youversion]: https://bit.ly/KB-youversion
 [kb-bibleproject]: https://bit.ly/KB-bibleproject
 [OneWord356]: https://oneword365.com
-[vision]: https://old.stanmd.tk/category/vision/
+[vision]: https://old.md.engineer/category/vision/
 
 <!-- Socials -->
-[home]: https://stanmd.tk/
+[home]: https://md.engineer/
 [twitter]: https://twitter.com/NdagiStanley
 [gh]: https://github.com/NdagiStanley
 [Ln]: https://www.linkedin.com/in/ndagistanley
