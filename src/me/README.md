@@ -19,7 +19,7 @@ Navigation is on the right sidebar.
 
 Stan
 
-- :flag-ke: is Kenyan (by birth)
+- :kenya: is Kenyan (by birth)
 - :earth_africa: identifies as a global citizen
 - :computer: mostly works from home
 - :writing_hand: enjoys writing
