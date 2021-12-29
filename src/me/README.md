@@ -138,7 +138,7 @@ An alternative, I came across in 2018 is the [OneWord365 philosophy][OneWord356]
 <!-- TODO -->
 <!-- Figure where to put this -->
 <!-- We might have to use a Blog theme/ create one -->
-Here are [my musings on the same, ever since][vision].
+<!-- Here are [my musings on the same, ever since][vision]. -->
 
 ## Where else can I be found?
 

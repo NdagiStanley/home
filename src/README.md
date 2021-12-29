@@ -42,8 +42,4 @@ Tinkerer | Writer | Digerati*
 :::
 </div>
 
-<div class="center">
-  <OldSite/>
-</div>
-
 <CustomFooter/>
